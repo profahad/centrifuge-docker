@@ -1,0 +1,19 @@
+{
+  "v3_use_offset": true,
+  "token_hmac_secret_key": "123456",
+  "api_key": "123456",
+  "secret": "123456",
+  "admin_password": "potato",
+  "admin_secret": "potato",
+  "admin": true,
+  "debug": true,
+  "anonymous": true,
+  "publish": true,
+  "subscribe_to_publish": true,
+  "presence": true,
+  "join_leave": true,
+  "history_size": 10,
+  "history_lifetime": 300,
+  "history_recover": true,
+  "client_insecure": true
+}
